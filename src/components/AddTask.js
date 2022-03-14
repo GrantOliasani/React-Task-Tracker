@@ -28,7 +28,7 @@ const onSubmit = (e) => {
 
        <div className='form-control'>
            <label>Day & Time</label>
-           <input type='text' placeholder='Add Task' value = {day} onChange={(e)=>setDay(e.target.value)} ></input>
+           <input type='text' placeholder='Time' value = {day} onChange={(e)=>setDay(e.target.value)} ></input>
        </div>
 
        <div className='form-control form-control-check'>

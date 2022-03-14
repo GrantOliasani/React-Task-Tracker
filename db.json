@@ -5,18 +5,6 @@
       "day": "adding",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "Try adding ",
-      "day": "again",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "Play Pub",
-      "day": "Today",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
